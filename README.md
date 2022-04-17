@@ -1,12 +1,49 @@
+<h1>Coderheroes Non-Profit E-Learning</h1>
+https://a.coderheroes.dev/
+<p>This is an ongoing project for a genuine coding school. Coderheroes intends to bring code to K-12 education so that Computer Science is more accessible at the univeristy level.</p>
+
+<p>I spent two months developing this project with an AGILE team. I was one of four Team Leads and we managed twelve other developers amongst us. I led my party through Stripe and Okta implementation as well as other, more granular features. We worked closely with a separate backend party and often exchanged BE/FE responsibilites. In addition to coding, I was assigned the duty of scoping work for my teammates as well as presenting this code as it was implemented each sprint.</p>
+
+<h3>[Tech Stack]</h3>
+[MIT](https://img.shields.io/packagist/l/doctrine/orm.svg) <br>
+[AntD](https://img.shields.io/badge/antd-v^4.4.3-green.svg)<br>
+[Axios](https://img.shields.io/badge/Axios-v^0.21.1-yellow.svg)<br>
+[Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)<br>
+[Less](https://img.shields.io/badge/Less-v^1.17.0-ff69b4.svg)<br>
+[Okta](https://img.shields.io/badge/Okta-v^3.0.2-red.svg)<br>
+[React](https://img.shields.io/badge/react-v16.13.1--alpha.2-blue.svg) <br>
+[React-Router-Dom](https://img.shields.io/badge/react--router--dom-v^5.2.0-blue.svg)  <br>
+[Redux](https://img.shields.io/badge/redux-v^4.1.2-yellow.svg)<br>
+[Redux-Thunk](https://img.shields.io/badge/redux--thunk-v^2.4.0-yellow.svg)<br>
+
+<h3>[Tech Stack; Back end]</h3>
+• Docker • Node.js • Express • Okta
+
+
+### Notes
+- Fork and clone the repo to install it as your own remote.
+  - **note** please [be sure to set your remote](https://help.github.jp/enterprise/2.11/user/articles/changing-a-remote-s-url/) for this repo to point to your Labs Team Front End Repository.
+- run: `npm install` to download all dependencies.
+- run: `npm start` to start your local development server.
+
+> When using Okta for authentication, the app will need to run locally on port 3000.
+
+
+### Key Features
+- Antdesign for component base
+- File scaffolding to organize pages and components
+- File scaffolding to organize styles
+- React router to handle project routing
+- Okta to handle user authentication
+- Less for global and component base styles
+- Redux for global state management
+
+
+
 <img src="https://user-images.githubusercontent.com/65091914/142253036-074f454e-62ab-445d-a30c-26e371e76e0a.png">
 Source: https://app.dbdesigner.net/designer/schema/0-codeheroes-99ad6258-244f-484c-a12f-151cb4aec1b2  ===> `old table`
 
 Updated table Source: https://dbdesigner.page.link/WTZRbVeTR7EzLvs86
-
-[Loom Video PT1](https://www.loom.com/share/4543abe4659540698c327058362f90f3)
-[Loom Video PT2](https://www.loom.com/share/c4e8c8f38cb14fdb8ac43e6a2342f159)
-[Loom Video PT3](https://www.loom.com/share/39128df605f44263b1b4a5b8ddbcddb3)
-[Loom Video PT4](https://www.loom.com/share/7da5fc043d3149afb05876c28df9bd3d)
 
 <h1>Profiles</h1>
 
